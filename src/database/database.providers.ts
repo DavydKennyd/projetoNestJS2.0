@@ -10,7 +10,7 @@ export const databaseProviders = [
         port: 5432,
         username: 'postgres',
         password: 'ifrn.cn',
-        database: 'aulanestjs',
+        database: 'BD_inventario',
         entities: [
             __dirname + '/../**/*.entity{.ts,.js}',
         ],
